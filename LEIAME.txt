@@ -1,0 +1,12 @@
+CALCULADORA DE PREMIAÇÃO - VERSÃO PARA CELULAR (APP INSTALÁVEL)
+
+O celular só instala como app se os arquivos estiverem em um endereço https:// (não funciona abrindo o arquivo direto).
+1) Coloque TODOS os arquivos desta pasta em uma hospedagem estática com https (GitHub Pages, Netlify, Cloudflare Pages, ou o servidor da empresa), na mesma pasta.
+2) Abra o endereço no celular.
+   - Android (Chrome): menu ⋮ > "Instalar app" (ou "Adicionar à tela inicial").
+   - iPhone (Safari): botão Compartilhar > "Adicionar à Tela de Início".
+3) Depois da primeira abertura, funciona offline.
+
+Privacidade: nada é enviado para fora. PADs, salários e histórico ficam só no navegador daquele aparelho.
+O histórico do celular é separado do histórico do computador; use "Salvar backup" / "Restaurar backup" na tela Histórico para levar de um para o outro (o backup contém os salários informados).
+Atenção: se você hospedar em endereço público, qualquer pessoa com o link abre a calculadora (os dados dela, porém, ficam só em cada aparelho). Prefira hospedagem com acesso restrito.
